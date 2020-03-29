@@ -8,3 +8,5 @@ env.py
 jnotebooks
 *.ipynb
 *.pdf
+notebooks/
+data
